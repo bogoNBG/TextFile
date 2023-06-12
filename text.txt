@@ -1,0 +1,7 @@
+Telefonen_ukazater.Contact
+a
+a
+asd
+rew
+${contact.Id, contact.Name, contact.Number, contact.Email}
+1, bogo, 878, gmail
